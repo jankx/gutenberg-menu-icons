@@ -16,6 +16,9 @@
 		"lint": "phpcs",
 		"format": "phpcbf"
 	},
+	"require": {
+		"jankx/helpers": "*"
+	},
 	"require-dev": {
 		"squizlabs/php_codesniffer": "^3.3",
 		"wp-coding-standards/wpcs": "^1",
